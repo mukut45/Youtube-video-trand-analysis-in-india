@@ -20,7 +20,7 @@ This project analyzes trending YouTube videos in India to uncover patterns, tren
 
 ## 📈 Likes vs Views
 
-![Likes vs Views](Youtube tranding data anlysis/Youtube video trand in india/Correlation between views and likes.PNG)
+![Likes vs Views](Youtube tranding data anlysis/Youtube video trand in india/images/Correlation between views and likes.PNG)
 
 ## 🏆 Top Trending Channels
 
