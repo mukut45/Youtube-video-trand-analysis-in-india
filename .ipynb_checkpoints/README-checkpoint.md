@@ -29,7 +29,7 @@ This project analyzes trending YouTube videos in India to uncover patterns, tren
 
 ## 🏆 Top Trending Channels
 
-![Top Channels](Youtube tranding data anlysis/Youtube video trand in india/Tranding channel titles.PNG)
+![Alt Text](images/Tranding_channel_titles.PNG)
 
 
 ---
