@@ -16,11 +16,11 @@ This project analyzes trending YouTube videos in India to uncover patterns, tren
 
 ## 📊 Trend Over Time
 
-![Trend Over Time](Youtube tranding data anlysis/Youtube video trand in india/Screen shots of tranding songs.PNG)
+![Trend Over Time](images/Screen_shots_of_tranding_songs.PNG)
 
 ## 📈 Likes vs Views
 
-![Likes vs Views]_[![Alt Text](images/Correlation_between_views_and_likes.PNG)]
+[![Alt Text](images/Correlation_between_views_and_likes.PNG)]
 
 ## 🏆 Top Trending Channels
 
